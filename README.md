@@ -5,7 +5,8 @@ It's a 4 candidate based voting machine with delay timer simulated in proteus si
 It's a Multivoting based Electronic Voting machine and the main purpose to make this is the college based voting in which a person can vote more than one number of 
 candidates so The reason behind the idea of this is The college level voting.
 
-# Main parts of Circuit
+# Main parts of the EVM Circuit:-
+
 # 1.Machine Delay circuit:-
 we are using the 15 secinds machine delay that can be change accorcing to the candidates as our moto is to reduce the time in voting so one voter will got only
 15 seconds to cast his/her vote so this process will take less time.
